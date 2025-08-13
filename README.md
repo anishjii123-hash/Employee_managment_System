@@ -28,4 +28,4 @@ The **Employee Management System** is a web application built using **React.js**
 * Clear categorization of tasks: **New**, **Completed**, **Failed**.
 
 This system provides an intuitive way for admins to assign and monitor tasks while enabling employees to manage and update their work status effectively, ensuring improved communication and productivity in the workplace
-![image alt](image_url)https://github.com/anishjii123-hash/Employee_managment_System/blob/fa47ba899f650eb85b4e850daa90f904796190ec/Screenshot%202025-08-13%20211718.png
+![image alt](https://github.com/anishjii123-hash/Employee_managment_System/blob/fa47ba899f650eb85b4e850daa90f904796190ec/Screenshot%202025-08-13%20211718.png)
