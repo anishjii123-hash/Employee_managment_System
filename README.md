@@ -37,4 +37,8 @@ This is a Admin Dashboard
 
 ![image alt](https://github.com/anishjii123-hash/Employee_managment_System/blob/75e3068de26bf66ba6d1a356beb233f07aa2db22/Screenshot%202025-08-13%20211844.png)
 
+This is a Employee Dashboard
+
+![image alt](https://github.com/anishjii123-hash/Employee_managment_System/blob/fd2c7ab3cd6a0328f371ef8aad195e9665de37de/Screenshot%202025-08-13%20211752.png)
+
 
